@@ -4,6 +4,8 @@ win = pygame.display.set_mode((700,500))
 pygame.display.set_caption("The Final Valley")
 icon = pygame.image.load('icon.png')
 pygame.display.set_icon(icon)
+#This time pass game
+
 
 
 walkRight = [pygame.image.load('pics\\NR1.png'), pygame.image.load('pics\\NR2.png'), pygame.image.load('pics\\NR3.png'), pygame.image.load('pics\\NR4.png')]
